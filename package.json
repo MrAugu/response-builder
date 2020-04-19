@@ -1,7 +1,7 @@
 {
   "name": "response-body-builder",
-  "version": "1.0.1",
-  "description": "A smart response builder used to build response bodys.",
+  "version": "1.0.2",
+  "description": "A smart response builder used to build response bodies.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"

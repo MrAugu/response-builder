@@ -1,5 +1,5 @@
 # response-body-builder
-Response Builder is a middleware that helps build you response bodys for APIs.
+Response Builder is a middleware that helps build you response bodies for APIs.
 
 # Installation
 ```
