@@ -1,5 +1,10 @@
-# response-builder
+# response-body-builder
 Response Builder is a middleware that helps build you response bodys for APIs.
+
+# Installation
+```
+npm install response-body-builder
+```
 
 # Usage
 **Basic Usage**
