@@ -127,7 +127,7 @@ Sets the status code of the request. If `message` is not provided, the default m
 "HTTP_400": "Bad request.",
 "HTTP_401": "Unauthorized.",
 "HTTP_403": "Forbidden.",
-"HTTP_404": "Not found",
+"HTTP_404": "Not found.",
 "HTTP_429": "Too many requests.",
 "HTTP_500": "Internal server error.",
 "HTTP_503": "Service unavailable."
