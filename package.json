@@ -1,0 +1,26 @@
+{
+  "name": "response-body-builder",
+  "version": "1.0.0",
+  "description": "A smart response builder used to build response bodys.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrAugu/response-builder.git"
+  },
+  "keywords": [
+    "response",
+    "express",
+    "response-builder",
+    "body",
+    "http"
+  ],
+  "author": "MrAugu#7917",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrAugu/response-builder/issues"
+  },
+  "homepage": "https://github.com/MrAugu/response-builder#readme"
+}
